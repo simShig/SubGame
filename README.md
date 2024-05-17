@@ -42,3 +42,5 @@ This repository contains the implementation of a console-based Battleship game i
     2 3 0 1
     ...
     Congratulations! You are the winner of this great battle!
+
+# ~~~~~ Have fun, and GOOD LUCK! ~~~~~
